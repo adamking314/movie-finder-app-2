@@ -1,7 +1,7 @@
 {
   "name": "first-react-app",
   "version": "0.1.0",
-  "homepage": "https://altcademy.github.io/first-react-app/",
+  "homepage": "https://github.com/adamking314/movie-finder-app-2",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
