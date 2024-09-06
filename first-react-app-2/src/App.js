@@ -10,7 +10,7 @@ const NotFound = () => {
 }
 const App = () => {
   return (
-    <Router basename="/first-react-app-2">
+    <Router basename="/movie-finder-app-2">
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <Link className="navbar-brand" to="/">Movie Finder</Link>
       </nav>
